@@ -45,7 +45,7 @@ body
 {
     position: absolute;
     top: 0;
-    left: 0;
+    right: 0;
     width: 3px;
     height: 100%;
     background: linear-gradient(to bottom,transparent,#17f3fd);
